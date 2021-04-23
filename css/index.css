@@ -12,6 +12,9 @@ body{
 	background-color: #ffffff;
 }
 @media screen and (max-width: 460px){
+	.main .data .data_product{
+		width: 100% !important;
+	}
 	.nav .nav_btn .btn{
 		display: none;
 	}
